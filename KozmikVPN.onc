@@ -3,21 +3,21 @@
   "NetworkConfigurations": [
     {
       "GUID": "{290363da-1eaa-435d-b895-c92b7abf64a6}",
-      "Name": "KozmikVPN",
+      "Name": "KingVPN",
       "Type": "VPN",
       "VPN": {
         "Type": "L2TP-IPsec",
-        "Host": "129.213.138.223",
+        "Host": "192.53.162.239",
         "AutoConnect": true,
         "IPsec": {
           "IKEVersion": 1,
           "AuthenticationType": "PSK",
-          "PSK": "EnG9jCGmWpi6a7sFLZUM",
+          "PSK": "nbaM5HfvWgmvrmdUfcUr",
           "SaveCredentials": true
         },
         "L2TP": {
           "Username": "vpnuser",
-          "Password": "gVJLSnXwnsA5CrFz"
+          "Password": "jpAUEHgvUoznxXce"
         }
       }
     }
