@@ -1,0 +1,31 @@
+{
+  "Type": "UnencryptedConfiguration",
+  "NetworkConfigurations": [
+    {
+      "GUID": "{013312b4-916b-44bb-96a3-f316a9b151b5}",
+      "Name": "AstralVPN",
+      "Type": "VPN",
+      "NameServersConfigType": "Static",
+      "StaticIPConfig": {
+        "NameServers": [
+          "161.97.156.62"
+        ]
+      },
+      "VPN": {
+        "Type": "L2TP-IPsec",
+        "Host": "209.145.50.218",
+        "AutoConnect": true,
+        "IPsec": {
+          "IKEVersion": 1,
+          "AuthenticationType": "PSK",
+          "PSK": "SF7B2cbivVvbuJRmteor",
+          "SaveCredentials": true
+        },
+        "L2TP": {
+          "Username": "vpnuser",
+          "Password": "aK7qDjdzC7jRVDu2"
+        }
+      }
+    }
+  ]
+}
