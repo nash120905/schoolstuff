@@ -1,0 +1,31 @@
+{
+  "Type": "UnencryptedConfiguration",
+  "NetworkConfigurations": [
+    {
+      "GUID": "{9feccd65-13bb-4879-bec1-2fb74a3ae6ac}",
+      "Name": "KingOfNetflix's VPN",
+      "Type": "VPN",
+      "NameServersConfigType": "Static",
+      "StaticIPConfig": {
+        "NameServers": [
+          "139.144.39.103"
+        ]
+      },
+      "VPN": {
+        "Type": "L2TP-IPsec",
+        "Host": "45.79.54.154",
+        "AutoConnect": true,
+        "IPsec": {
+          "IKEVersion": 1,
+          "AuthenticationType": "PSK",
+          "PSK": "AHLiWVFkyHweEpNpFnkE",
+          "SaveCredentials": true
+        },
+        "L2TP": {
+          "Username": "vpnuser",
+          "Password": "JcMLW9PJoV5jWcuN"
+        }
+      }
+    }
+  ]
+}
