@@ -7,3 +7,4 @@
 ||chromereporting-pa.googleapis.com^
 ||storage.googleapis.com^
 ||gopher-buddy-prod.appspot.com^
+||mesquiteisd.org^
