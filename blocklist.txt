@@ -8,3 +8,5 @@
 ||storage.googleapis.com^
 ||gopher-buddy-prod.appspot.com^
 ||gp.mesquiteisd.org^
+||netgear.com^
+||meetcircle.com^
