@@ -4,6 +4,7 @@
 ||ep.learnplatform.com^
 ||policies.google.com^
 ||chromereporting-pa.googleapis.com^
+||clients2.google.com^
 ||storage.googleapis.com^
 ||gopher-buddy-prod.appspot.com^
 ||gp.mesquiteisd.org^
