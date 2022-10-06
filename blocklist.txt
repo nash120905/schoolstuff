@@ -1,7 +1,6 @@
 ||tools.google.com^
 ||dl.google.com^
 ||student-pltw.kiteaai.org^$important,dnsrewrite=duckduckgo.com
-||clients2.google.com^
 ||ep.learnplatform.com^
 ||policies.google.com^
 ||chromereporting-pa.googleapis.com^
